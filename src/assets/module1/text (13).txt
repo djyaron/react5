@@ -1,0 +1,1 @@
+Once at equilibrium, the concentrations of reactants do not change even though both the forward and reverse reactions are occurring. This is because the rate at which the forward reaction consumes reactants is equal to the rate at which the reverse reaction creates reactants. 

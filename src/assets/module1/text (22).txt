@@ -1,0 +1,1 @@
+This is a specific example of a situation that is very common in chemical equilibrium systems. In the language of chemical equilibrium, we call the addition of oxygen a stress to the system. The response to this stress is a shift in the reaction that establishes a new equilibrium. This phenomenon is called LeChatlier's Principle and we'll explain it more in Module 3.

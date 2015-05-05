@@ -1,0 +1,1 @@
+The shift occurs until the forward rate and reverse rate become balanced again, and we establish a new equilibrium state.

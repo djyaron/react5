@@ -1,0 +1,1 @@
+Some chemical reactions are essentially <b>non-reversible</b>, that is, they only go in one direction and then stop when all of the reactants are converted to products. Here, A can be converted to B, but not the other way around. Or, two things can combine: A and B combine to form C.
