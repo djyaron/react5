@@ -7,7 +7,7 @@ import TransientTxt from '../TransientTxt';
 class EX2Browser extends React.Component{
   constructor(props) {
     super(props);
-    this.state = {id: 2, junk: 12};
+    this.state = {id: 1};
     this.nextItem = this.nextItem.bind(this);
   }
   nextItem() {

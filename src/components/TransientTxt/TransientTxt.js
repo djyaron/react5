@@ -7,28 +7,34 @@ import './TransientTxt.less';
 class TransientTxt extends React.Component{
   constructor(props) {
     super(props);
-    this.state = {txt: 'initialText'};
+    this.loadText = this.loadText.bind(this);
   }
 
-  componentDidMount() {
+  loadText() {
     let source = 'module1/text (' + this.props.sourceId + ').txt';
     console.log('will load text from: ' + source);
-    $.get(source, function(result) {
-      console.log('old text: ' + this.state.txt);
-      let newTxt = result;
-      console.log('loaded: ' + newTxt);
-      this.setState({
-        txt: newTxt
-      });
-    }.bind(this));
-    console.log('new text: ' + this.state.txt);
+    //$.get(source, function(result) {
+    //  console.log('in callback '+ this.newTxt);
+    //  this.newTxt = result;
+    //  console.log('in callback 2 '+ this.newTxt);
+    //  this.newTxt = result;
+    //
+    //}.bind(toSend));
+    var newTxt=$.ajax({
+      type: "GET",
+      url: source,
+      async: false
+    }).responseText;
+    console.log('loaded: ' + newTxt);
+    return newTxt;
   }
 
   render() {
+    var myText = this.loadText();
     return (
       <div className="TransientTxt">
         <div className="TransientTxt-container">
-          <p> {this.state.txt}</p>
+          <p> {myText} </p>
         </div>
       </div>
     )
