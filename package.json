@@ -18,6 +18,7 @@
     "flux": "2.0.3",
     "front-matter": "1.0.0",
     "jade": "1.9.2",
+    "jquery": "^2.1.4",
     "lodash": "3.8.0",
     "normalize.css": "3.0.3",
     "react": "0.13.2",

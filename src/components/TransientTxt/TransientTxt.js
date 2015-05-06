@@ -2,18 +2,19 @@
 
 import $ from 'jquery';
 import React from 'react'; // eslint-disable-line no-unused-vars
-import './ContactPage.less';
+import './TransientTxt.less';
 
-class ContactPage extends React.Component{
+class TransientTxt extends React.Component{
   constructor(props) {
     super(props);
     this.state = {txt: 'initialText'};
   }
 
   componentDidMount() {
-    $.get(this.props.source, function(result) {
+    let source = 'module1/text (' + this.props.sourceId + ').txt';
+    console.log('will load text from: ' + source);
+    $.get(source, function(result) {
       console.log('old text: ' + this.state.txt);
-      console.log('will load text from: ' + this.props.source);
       let newTxt = result;
       console.log('loaded: ' + newTxt);
       this.setState({
@@ -24,16 +25,15 @@ class ContactPage extends React.Component{
   }
 
   render() {
-    $.get();
     return (
-      <div className="ContactPage">
-        <div className="ContactPage-container">
+      <div className="TransientTxt">
+        <div className="TransientTxt-container">
           <p> {this.state.txt}</p>
         </div>
       </div>
     )
   }
 }
-ContactPage.defaultProps = {source: 'module1/text (1).txt'};
+TransientTxt.defaultProps = {sourceId : 1 };
 
-export default ContactPage;
+export default TransientTxt;

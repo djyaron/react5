@@ -1,0 +1,6 @@
+{
+  "name": "EX2Browser",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EX2Browser.js"
+}

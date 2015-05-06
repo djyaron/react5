@@ -11,6 +11,7 @@ class Navigation extends React.Component{
       <div className={cx(this.props.className, 'Navigation')} role="navigation">
         <a className="Navigation-link" href="/about">About</a>
         <a className="Navigation-link" href="/contact">Contact</a>
+        <a className="Navigation-link" href="/test1">Test1</a>
         <span className="Navigation-spacer"> | </span>
         <a className="Navigation-link" href="/login">Log in</a>
         <span className="Navigation-spacer">or</span>

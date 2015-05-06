@@ -7,6 +7,7 @@ import AppStore from '../../stores/AppStore';
 import Header from '../Header';
 import ContentPage from '../ContentPage';
 import ContactPage from '../ContactPage';
+import EX2Browser from '../EX2Browser';
 import LoginPage from '../LoginPage';
 import RegisterPage from '../RegisterPage';
 import NotFoundPage from '../NotFoundPage';
@@ -47,6 +48,11 @@ class App {
       case '/contact':
         this.props.onSetTitle(ContactPage.title);
         this.component = <ContactPage />;
+        break;
+
+      case '/test1':
+        this.props.onSetTitle('test 1');
+        this.component = <EX2Browser />;
         break;
 
       case '/login':
