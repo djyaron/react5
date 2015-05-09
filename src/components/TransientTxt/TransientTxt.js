@@ -11,35 +11,28 @@ class TransientTxt extends React.Component{
   }
 
   loadText() {
-    let source = 'module1/text (' + this.props.sourceId + ').txt';
+    let prefix = this.props.isSvg ? 'svg' : 'text';
+    let source = 'module1/'+ prefix +' (' + this.props.sourceId + ').txt';
     console.log('will load text from: ' + source);
-    //$.get(source, function(result) {
-    //  console.log('in callback '+ this.newTxt);
-    //  this.newTxt = result;
-    //  console.log('in callback 2 '+ this.newTxt);
-    //  this.newTxt = result;
-    //
-    //}.bind(toSend));
     var newTxt=$.ajax({
       type: "GET",
       url: source,
       async: false
     }).responseText;
-    console.log('loaded: ' + newTxt);
+    //console.log('loaded: ' + newTxt);
+    if (this.props.isSvg) {
+      newTxt = '<svg> ' + newTxt + '</svg>';
+    }
     return newTxt;
   }
 
   render() {
-    var myText = this.loadText();
+    var myText = {__html: this.loadText()};
     return (
-      <div className="TransientTxt">
-        <div className="TransientTxt-container">
-          <p> {myText} </p>
-        </div>
-      </div>
+      <div className="TransientTxt" dangerouslySetInnerHTML={myText} />
     )
   }
 }
-TransientTxt.defaultProps = {sourceId : 1 };
+TransientTxt.defaultProps = {sourceId : 1,  isSvg: false};
 
 export default TransientTxt;
