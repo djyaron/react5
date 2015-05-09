@@ -1,0 +1,6 @@
+{
+  "name": "SVGGroups",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SVGGroups.js"
+}
