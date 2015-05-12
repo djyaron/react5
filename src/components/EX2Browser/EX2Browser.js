@@ -2,7 +2,7 @@
 
 import React from 'react'; // eslint-disable-line no-unused-vars
 import './EX2Browser.less';
-import SVGGroups from '../SVGGroups';
+import SVGItem from '../SVGItem';
 import TransientTxt from '../TransientTxt';
 
 class EX2Browser extends React.Component{
@@ -31,7 +31,7 @@ class EX2Browser extends React.Component{
           <p onClick={this.nextItem}>
             Next
           </p>
-          <SVGGroups sourceIds={this.state.visible} />
+          <SVGItem sourceIds={this.state.visible} />
           <TransientTxt sourceId={this.state.id} />
         </div>
       </div>
