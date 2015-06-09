@@ -1,4 +1,8 @@
+
+>Text created when standard react repo was cloned.  Please note additional requirements for windows 7 machines at the bottom.
+
 # React Starter Kit
+
 
 [![Build Status](http://img.shields.io/travis/kriasoft/react-starter-kit/master.svg?style=flat-square)](http://travis-ci.org/kriasoft/react-starter-kit)
 [![Dependency Status](https://david-dm.org/kriasoft/react-starter-kit.svg?style=flat-square)](https://david-dm.org/kriasoft/react-starter-kit)
@@ -134,3 +138,5 @@ Source code is licensed under the MIT License (MIT). See [LICENSE.txt](./LICENSE
 file in the project root. Documentation to the project is licensed under the
 [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) license. React logo
 image is a trademark of Facebook, Inc.
+
+>Note for Windows 7/Vista users (additional software is required)  https://github.com/TooTallNate/node-gyp/wiki/Visual-Studio-2010-Setup
