@@ -1,0 +1,246 @@
+<ymp_presentation>
+
+
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Law of Mass Action&lt;br&gt;&lt;br&gt;For the general reaction: aA + bB &amp;lt;--&amp;gt; cC + dD</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	
+	<ymp_slice>
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>65.45</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>154.85</ymp_yAbsolute>
+		
+		<ymp_xOffset>151.8</ymp_xOffset>
+		
+		<ymp_yOffset>66.6</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[01] -->An important and useful property of chemical equilibrium systems is that they obey what is called the law of mass action.</ymp_txt>
+	</ymp_slice>
+
+
+
+	<ymp_slice>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>227.15</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>159.7</ymp_yAbsolute>
+		
+		<ymp_xOffset>115.4</ymp_xOffset>
+		
+		<ymp_yOffset>25.9</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[2] -->This law states that at chemical equilibrium, the reaction quotient, Q, of the system will be equal to a constant that depends only on the chemical reaction and temperature. </ymp_txt>
+	</ymp_slice>
+
+
+
+
+
+
+	<ymp_slice>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>384.5</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>129.45</ymp_yAbsolute>
+		
+		<ymp_xOffset>159.8</ymp_xOffset>
+		
+		<ymp_yOffset>83.7</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[3] -->We call this constant the equilibrium constant and give it the symbol upper-case K. It is expressed in concentration for solutions on the left, and in partial pressures of gasses on the right.</ymp_txt>
+	</ymp_slice>
+
+
+
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Consider starting with 1.00 atm of H2 and 1.00 atm of I2. These will react according to the following reaction:</ymp_title>
+
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>260.15</ymp_yAbsolute>
+		
+		<ymp_xOffset>-317</ymp_xOffset>
+		
+		<ymp_yOffset>115</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[4] -->Let's do an example to see how the law of mass action works. Say we start with one atmosphere each of hydrogen and iodine gas, and these react through the following reversible reaction to form two hydrogen iodide gas-phase molecules.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>320.3</ymp_yAbsolute>
+		
+		<ymp_xOffset>294.1</ymp_xOffset>
+		
+		<ymp_yOffset>17.1</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[5] -->As the reaction occurs, the partial pressures of the gases will change, but eventually we will reach chemical equilibrium. At this point, we find 0.213 atmospheres each of hydrogen and iodine gas and 1.573 atmospheres of hydrogen iodide gas.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>At equilibrium, you find 0.213 atm each of H2 and I2 and 1.573 atm of HI:</ymp_title>
+
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>354.85</ymp_yAbsolute>
+		
+		<ymp_xOffset>0</ymp_xOffset>
+		
+		<ymp_yOffset>40</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[6] -->As the reaction occurs, the partial pressures of the gases will change, but eventually we will reach chemical equilibrium. At this point, we find 0.213 atmospheres each of hydrogen and iodine gas and 1.573 atmospheres of hydrogen iodide gas.</ymp_txt>
+	</ymp_slice>
+
+
+
+
+	<ymp_slice>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>410.3</ymp_yAbsolute>
+		
+		<ymp_xOffset>399.2</ymp_xOffset>
+		
+		<ymp_yOffset>68.1</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[7] -->We can summarize this experiment using the following tabular form, in which we write the reaction on top, put the initial values in the first row and put the steady state equilibrium values in the second row. </ymp_txt>
+	</ymp_slice>
+
+
+
+
+
+
+	<ymp_slice>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>77.85</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>511.25</ymp_yAbsolute>
+		
+		<ymp_xOffset>349.1</ymp_xOffset>
+		
+		<ymp_yOffset>59.8</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[7] -->The law of mass action says that Q will equal K at equilibrium. If we plug in the partial pressures in atmospheres we find a value of 54 for the equilibrium constant K.</ymp_txt>
+	</ymp_slice>
+
+
+
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>If we then add 1.00 atm of I2 (raising the concentration of I2 to 1.213 atm), the system will adjust and at equilibrium, the pressures will be as follows,</ymp_title>
+
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>593.5</ymp_yAbsolute>
+		
+		<ymp_xOffset>-43</ymp_xOffset>
+		
+		<ymp_yOffset>75</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[08] -->Let's assume our system is sitting in this steady state equilibrium situation, and we suddenly add an additional 1 atmosphere of iodine gas. LeChatlier's principal tells us that the system will shift in the forward direction to counter the stress.</ymp_txt>
+	</ymp_slice>
+
+
+
+
+	<ymp_slice>
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>61.35</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>663.5</ymp_yAbsolute>
+		
+		<ymp_xOffset>384.0</ymp_xOffset>
+		
+		<ymp_yOffset>42.2</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[9] -->We'll again summarize what happens in a tabular form. After addition of the 1 atmosphere of iodine gas, we've established a new initial condition. </ymp_txt>
+	</ymp_slice>
+
+
+
+
+
+
+	<ymp_slice>
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>66</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>727.3</ymp_yAbsolute>
+		
+		<ymp_xOffset>371.1</ymp_xOffset>
+		
+		<ymp_yOffset>12.4</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[10] -->At equilibrium, the reaction adjusts leading to these partial pressures. </ymp_txt>
+	</ymp_slice>
+
+
+
+	<ymp_slice>
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>110.3</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>758.4</ymp_yAbsolute>
+		
+		<ymp_xOffset>317.1</ymp_xOffset>
+		
+		<ymp_yOffset>49.0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[11] -->Let's consider again our law of mass action. Q now takes on this value, which again equals our equilibrium constant of 54.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title> </ymp_title>
+
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>110.3</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>500</ymp_yAbsolute>
+		
+		<ymp_xOffset>0</ymp_xOffset>
+		
+		<ymp_yOffset>0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[11] -->This is what the law of mass action means. A reaction system will always adjusts itself such that the law of mass action is obeyed, meaning the reaction shifts until Q becomes equal to the equilibrium constant K.</ymp_txt>
+	</ymp_slice>
+
+
+
+</ymp_presentation>

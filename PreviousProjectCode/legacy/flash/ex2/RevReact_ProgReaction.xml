@@ -1,0 +1,295 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Progress of reaction</ymp_title>
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>68.9</ymp_yAbsolute>
+		<ymp_xOffset>523.2</ymp_xOffset>
+		<ymp_yOffset>106.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->A chemical equation gives a rule for how molecules react with one another. However, it does not describe a single state of a chemical system. Instead, the reaction leads to a range of possible states that we can view as lying along a coordinate that we will call the the progress of reaction. To illustrate what we mean by progress of reaction will use the dimerization of NO2 to form N2O4. This reaction occurs in the gas phase and we will draw these molecules in a container as shown here. The colors of our molecules are brown for NO2 and grey for N2O4 which represent the actual colors of the gas molecules in the reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>101.5</ymp_xAbsolute>
+		<ymp_yAbsolute>205.3</ymp_yAbsolute>
+		<ymp_xOffset>365.6</ymp_xOffset>
+		<ymp_yOffset>80.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->We can define the progress of a reaction as the relative amount of NO2 that has been converted to N2O4.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>112.35</ymp_xAbsolute>
+		<ymp_yAbsolute>296.9</ymp_yAbsolute>
+		<ymp_xOffset>41.6</ymp_xOffset>
+		<ymp_yOffset>13.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->These diagrams show a range of possible states for the NO2 reaction. The maximal number of NO2s in this case is 10, shown in the far left box.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_param_istoggle>true</ymp_param_istoggle>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>101.5</ymp_xAbsolute>
+		<ymp_yAbsolute>205.3</ymp_yAbsolute>
+		<ymp_xOffset>365.6</ymp_xOffset>
+		<ymp_yOffset>80.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->As we move one box to the right, 2 NO2s have reacted to form a single N2O4.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_param_istoggle>true</ymp_param_istoggle>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>101.5</ymp_xAbsolute>
+		<ymp_yAbsolute>205.3</ymp_yAbsolute>
+		
+		<ymp_xOffset>365.6</ymp_xOffset>
+		<ymp_yOffset>80.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->In the next box to the right, an additional N2O4 has been formed, and so on until ...</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>418.5</ymp_xAbsolute>
+		<ymp_yAbsolute>297</ymp_yAbsolute>
+		<ymp_xOffset>39.9</ymp_xOffset>
+		<ymp_yOffset>14.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->The far right-hand side, in which all of the NO2s have been converted to N2O4. The maximal number of N2O4s is 5 in this case.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>172.25</ymp_xAbsolute>
+		<ymp_yAbsolute>295.8</ymp_yAbsolute>
+		<ymp_xOffset>235.8</ymp_xOffset>
+		<ymp_yOffset>26.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->This graphic provides a convenient visual representation of the progress of reaction. As we move from left to right, reactants combine to form products. As we move from right to left, products break up to form reactants.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_param_istoggle>true</ymp_param_istoggle>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>101.5</ymp_xAbsolute>
+		<ymp_yAbsolute>205.3</ymp_yAbsolute>
+		<ymp_xOffset>365.6</ymp_xOffset>
+		<ymp_yOffset>80.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->The very far right corresponds to the limiting reagent situation in which the forward reaction has progressed until all of the reactants have run out.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_param_istoggle>true</ymp_param_istoggle>
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>101.5</ymp_xAbsolute>
+		<ymp_yAbsolute>205.3</ymp_yAbsolute>
+		<ymp_xOffset>365.6</ymp_xOffset>
+		<ymp_yOffset>80.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->Conversely, the leftmost box corresponds to the limiting reagent situation in which the reverse reaction has progressed until all of the products have run out. Since chemical equilibrium systems involve reversible reactions, the equilibrium state lies between these end points. We will use a variable called the reaction quotient, Q to determine where along this continuum a system currently resides and the equilibrium constant, K, to determine where the system resides when it reaches the steady equilibrium state.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>67.6</ymp_xAbsolute>
+		<ymp_yAbsolute>348.25</ymp_yAbsolute>
+		<ymp_xOffset>372.9</ymp_xOffset>
+		<ymp_yOffset>11.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->The reaction quotient, Q, is the mathematical formula that captures the state of a system along this continuum.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>152.55</ymp_xAbsolute>
+		<ymp_yAbsolute>371.55</ymp_yAbsolute>
+		<ymp_xOffset>91.1</ymp_xOffset>
+		<ymp_yOffset>39.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->For this particular reaction, Q is equal to the partial pressure of N2O4 divided by the partial pressure of NO2 squared, with the pressure being expressed in atm. The pressure of NO2 is squared because NO2 has a coefficient of 2 in the chemical reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>258.55</ymp_xAbsolute>
+		<ymp_yAbsolute>376.6</ymp_yAbsolute>
+		<ymp_xOffset>105.5</ymp_xOffset>
+		<ymp_yOffset>30.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->Later, we will talk about the details of this formula. For now, notice that the amount of products, as measured by partial pressure, is in the numerator while the amount of reactants is in the denominator.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>119.8</ymp_xAbsolute>
+		<ymp_yAbsolute>431.85</ymp_yAbsolute>
+		<ymp_xOffset>362.1</ymp_xOffset>
+		<ymp_yOffset>54.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->Let's return to our sequence of boxes, and calculate Q, the reaction quotient, for each of them. In the Q expression the values are always in partial pressures or concentrations, not number of moles.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>491.1</ymp_xAbsolute>
+		<ymp_yAbsolute>391.6</ymp_yAbsolute>
+		<ymp_xOffset>101.0</ymp_xOffset>
+		<ymp_yOffset>79.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->Each box represents a small portion of the gas. We'll assume that the partial pressure is one atmosphere for each molecule we see.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>72.75</ymp_xAbsolute>
+		<ymp_yAbsolute>495.25</ymp_yAbsolute>
+		<ymp_xOffset>396.0</ymp_xOffset>
+		<ymp_yOffset>19.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->The partial pressure of N2O4 increases from zero to 5 atmospheres as the forward reaction progresses and we go from left to right. This direction corresponds to converting reactants into products.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>74.2</ymp_xAbsolute>
+		<ymp_yAbsolute>526.7</ymp_yAbsolute>
+		<ymp_xOffset>393.9</ymp_xOffset>
+		<ymp_yOffset>16.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->Conversely, the partial pressure of NO2 increases from zero to 10 as the reverse reaction progresses and we go from right to left. This direction corresponds to converting products into reactants.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>60.3</ymp_xAbsolute>
+		<ymp_yAbsolute>560.05</ymp_yAbsolute>
+		<ymp_xOffset>64.5</ymp_xOffset>
+		<ymp_yOffset>29.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->The reaction quotient, Q, is given by a ratio of the partial pressures of products over reactants. In this case Q equals N2O4/NO2^2.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>138.3</ymp_xAbsolute>
+		<ymp_yAbsolute>555.85</ymp_yAbsolute>
+		<ymp_xOffset>334.6</ymp_xOffset>
+		<ymp_yOffset>29.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->On the far left, Q = 0, because the partial pressure of N2O4 is zero. Q increases as we move to the right.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>139.75</ymp_xAbsolute>
+		<ymp_yAbsolute>594.35</ymp_yAbsolute>
+		<ymp_xOffset>327.6</ymp_xOffset>
+		<ymp_yOffset>11.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->At the far right, the partial pressure of NO2 is zero, so the value of Q becomes infinite.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>20</ymp_idx>
+		<ymp_xAbsolute>207.15</ymp_xAbsolute>
+		<ymp_yAbsolute>621.55</ymp_yAbsolute>
+		<ymp_xOffset>123.8</ymp_xOffset>
+		<ymp_yOffset>9.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[20] -->Q, the reaction quotient, givens an indication of the progress of the forward reaction. As we'll see below, Q is a valuable tool for thinking about equilibrium systems. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Reaction quotient, Q for a general reaction</ymp_title>
+
+		<ymp_idx>21</ymp_idx>
+		<ymp_xAbsolute>45</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>496.8</ymp_xOffset>
+		<ymp_yOffset>46.5</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[21] -->Let's now consider the formula for Q for a more general reaction in which reactants A and B react to form products C and D, with the stoichiometric coefficients a, b, c and d.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>22</ymp_idx>
+		<ymp_xAbsolute>67.85</ymp_xAbsolute>
+		<ymp_yAbsolute>722.15</ymp_yAbsolute>
+		<ymp_xOffset>119.2</ymp_xOffset>
+		<ymp_yOffset>33.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[22] -->The formula for the reaction quotient is a ratio. The concentrations of products raised to their their stoichiometric coefficients are in the numerator.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>23</ymp_idx>
+		<ymp_xAbsolute>117.75</ymp_xAbsolute>
+		<ymp_yAbsolute>749.15</ymp_yAbsolute>
+		<ymp_xOffset>67.6</ymp_xOffset>
+		<ymp_yOffset>19.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[23] -->The concentrations of reactants raised to their stoichiometric coefficients are in the denominator.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>24</ymp_idx>
+		<ymp_xAbsolute>207.9</ymp_xAbsolute>
+		<ymp_yAbsolute>731.6</ymp_yAbsolute>
+		<ymp_xOffset>100</ymp_xOffset>
+		<ymp_yOffset>22.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[24] -->If the reaction occurs in a solution, the concentrations are given in molarity, M.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>25</ymp_idx>
+		<ymp_xAbsolute>348.65</ymp_xAbsolute>
+		<ymp_yAbsolute>721.4</ymp_yAbsolute>
+		<ymp_xOffset>248.1</ymp_xOffset>
+		<ymp_yOffset>47.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[25] -->If the reaction involves gases, the concentration of reactants and products are expressed as partial pressures in atmospheres.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

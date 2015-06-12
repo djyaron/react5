@@ -1,0 +1,243 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Manipulating K and chemical reactions</ymp_title>
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_param_isdisplaytxt>true</ymp_param_isdisplaytxt>
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>58</ymp_xAbsolute>
+		<ymp_yAbsolute>42.65</ymp_yAbsolute>
+		<ymp_xOffset>393.5</ymp_xOffset>
+		<ymp_yOffset>20.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->In this library module, we will consider how Q and K change when we manipulate a chemical reaction by doubling it, reversing it, or combining it with another reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>81.35</ymp_xAbsolute>
+		<ymp_yAbsolute>90.1</ymp_yAbsolute>
+		<ymp_xOffset>357.9</ymp_xOffset>
+		<ymp_yOffset>79.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->For this module, we will be using the given reaction as our original reaction; indicated by the "orig" subscript on the free energy and equilibrium constant.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>60.5</ymp_xAbsolute>
+		<ymp_yAbsolute>198</ymp_yAbsolute>
+		<ymp_xOffset>324.6</ymp_xOffset>
+		<ymp_yOffset>44.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->What happens when we double the reaction? That is, what if each stoichiometric coefficient in the chemical equation doubles? Note that the free energy doubles, since the amount of substances being converted by the reaction doubles. (In the original reaction, 1 mol of A reacts with 2 mols of B to produce 1 mol of C. In the doubled reaction, 2 mols of A react with 4 mols of B to produce 1 mol of C.)</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>106.1</ymp_xAbsolute>
+		<ymp_yAbsolute>255.35</ymp_yAbsolute>
+		<ymp_xOffset>113.7</ymp_xOffset>
+		<ymp_yOffset>56.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->We can write the law of mass action (K=Q at equilibrium) for this doubled reaction as shown here.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>237.4</ymp_xAbsolute>
+		<ymp_yAbsolute>253.5</ymp_yAbsolute>
+		<ymp_xOffset>128.7</ymp_xOffset>
+		<ymp_yOffset>56.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->Comparison with Q of the original reaction, we see that Q of the doubled reaction is the square of the original Q.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>383.75</ymp_xAbsolute>
+		<ymp_yAbsolute>261.35</ymp_yAbsolute>
+		<ymp_xOffset>75.2</ymp_xOffset>
+		<ymp_yOffset>35.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->K for the doubled reaction must then be the square of the original K.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>106.2</ymp_xAbsolute>
+		<ymp_yAbsolute>320.25</ymp_yAbsolute>
+		<ymp_xOffset>473.2</ymp_xOffset>
+		<ymp_yOffset>43.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->The changes in the free energy and K are consistent, since doubling the free energy in the exponential is equivalent to squaring the exponential.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>60.25</ymp_xAbsolute>
+		<ymp_yAbsolute>375.35</ymp_yAbsolute>
+		<ymp_xOffset>337.2</ymp_xOffset>
+		<ymp_yOffset>44.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->What happens if we reverse how the original reaction is written? The free energy changes sign, since if the reaction is uphill in free energy in the forward direction, it must be downhill in the reverse reaction (and vice versa).</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>97.35</ymp_xAbsolute>
+		<ymp_yAbsolute>433.2</ymp_yAbsolute>
+		<ymp_xOffset>260.4</ymp_xOffset>
+		<ymp_yOffset>58.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->Comparing the law of mass action (K=Q at equilibrium) for the reverse reaction with that of the original reaction, we see that Q of the reverse reaction is the inverse of the original Q.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>364.65</ymp_xAbsolute>
+		<ymp_yAbsolute>441.5</ymp_yAbsolute>
+		<ymp_xOffset>75.8</ymp_xOffset>
+		<ymp_yOffset>44.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->K for the reverse reaction is then the inverse of the original K.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>95.65</ymp_xAbsolute>
+		<ymp_yAbsolute>515.35</ymp_yAbsolute>
+		<ymp_xOffset>486.1</ymp_xOffset>
+		<ymp_yOffset>46.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->The changes in the free energy and K are consistent, since changing the sign of the free energy in the exponential is equivalent to raising K to the power of -1. And raising an expression to the -1 power is equivalent to taking the inverse of the expression.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>65.45</ymp_xAbsolute>
+		<ymp_yAbsolute>576.3</ymp_yAbsolute>
+		<ymp_xOffset>214.3</ymp_xOffset>
+		<ymp_yOffset>99.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->Finally, what happens when we add two reactions to obtain a third reaction? Note that the chemical species C cancels when we add the first two reactions together to get the third reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>360.05</ymp_xAbsolute>
+		<ymp_yAbsolute>605.8</ymp_yAbsolute>
+		<ymp_xOffset>134.9</ymp_xOffset>
+		<ymp_yOffset>71.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->From Hess's law, the free energies of the original reactions add together for the summed reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>274.5</ymp_xAbsolute>
+		<ymp_yAbsolute>609.05</ymp_yAbsolute>
+		<ymp_xOffset>64.0</ymp_xOffset>
+		<ymp_yOffset>71.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->We will be showing below that the equilibrium constants multiply together for the summed reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>110.45</ymp_xAbsolute>
+		<ymp_yAbsolute>698</ymp_yAbsolute>
+		<ymp_xOffset>424.4</ymp_xOffset>
+		<ymp_yOffset>43.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->The laws of mass action (K=Q at equilibrium) for each of the original reactions and the summed reaction are shown here.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>189.9</ymp_xAbsolute>
+		<ymp_yAbsolute>755.35</ymp_yAbsolute>
+		<ymp_xOffset>288.8</ymp_xOffset>
+		<ymp_yOffset>85.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->Comparison of the above laws of mass action shows that Q of the summed reaction is the product of the Q's for the original reactions, and therefore K of the summed reaction is the product of the K's for the original reactions.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>195.9</ymp_xAbsolute>
+		<ymp_yAbsolute>857.95</ymp_yAbsolute>
+		<ymp_xOffset>296.4</ymp_xOffset>
+		<ymp_yOffset>41.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->We will next show that the addition of free energies is consistent with multiplying the equilibrium constants. We first substitute in the relation between K and free energy for each of the reactions.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>226.05</ymp_xAbsolute>
+		<ymp_yAbsolute>907.85</ymp_yAbsolute>
+		<ymp_xOffset>277.2</ymp_xOffset>
+		<ymp_yOffset>33.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->The product of exponentials on the left hand side can be combined into a single exponential by summing the exponents.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>257.35</ymp_xAbsolute>
+		<ymp_yAbsolute>929.8</ymp_yAbsolute>
+		<ymp_xOffset>189.8</ymp_xOffset>
+		<ymp_yOffset>53.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->This confirms that taking the product of the equilibrium constants for reaction 1 and reaction 2 is consistent with summing the free energies of the reactions.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

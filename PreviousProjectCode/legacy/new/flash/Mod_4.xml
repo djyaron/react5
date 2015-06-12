@@ -1,0 +1,353 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Le Chatelier's principle&lt;br&gt;Response to different types of stress</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>93.85</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>93.85</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[1] -->As the last module introduced, if something happens to perturb the system, i.e. if Q, the ratio of products to reactants, is changed so that it is no longer equal to K, LeChatlier's Principle tells us that the system will move in the direction that restores equilibrium. We call anything that perturbs a chemical equilibrium a stress to that system. The first type of stress we will consider is the addition or removal of a chemical species.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>163.3</ymp_xAbsolute>
+		<ymp_yAbsolute>116.5</ymp_yAbsolute>
+		<ymp_xOffset>208.6</ymp_xOffset>
+		<ymp_yOffset>18.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Consider the reversible reaction in which A and B react to produce C and D.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.5</ymp_xAbsolute>
+		<ymp_idx>3</ymp_idx>
+		<ymp_yAbsolute>157.2</ymp_yAbsolute>
+		<ymp_xOffset>102.1</ymp_xOffset>
+		<ymp_yOffset>10.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->Suppose that the stress we apply to the system is the addition of a reactant, A or B. LeChatlier's principle says that the system will respond in a way that counters this stress.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>262.15</ymp_xAbsolute>
+		<ymp_idx>4</ymp_idx>
+		<ymp_yAbsolute>154.45</ymp_yAbsolute>
+		<ymp_xOffset>232.4</ymp_xOffset>
+		<ymp_yOffset>13.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->Here the stress &lt;b&gt;increased&lt;/b&gt; the concentration of a reactant, so the system will shift in the forward direction to &lt;b&gt;decrease&lt;/b&gt; the concentration of the reactants.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.75</ymp_xAbsolute>
+		<ymp_idx>5</ymp_idx>
+		<ymp_yAbsolute>174.45</ymp_yAbsolute>
+		<ymp_xOffset>106.7</ymp_xOffset>
+		<ymp_yOffset>11.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->Similarly if we add a product, C or D,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>262.9</ymp_xAbsolute>
+		<ymp_idx>6</ymp_idx>
+		<ymp_yAbsolute>173.25</ymp_yAbsolute>
+		<ymp_xOffset>232.1</ymp_xOffset>
+		<ymp_yOffset>14.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->The system will shift in the reverse direction to counter this stress by decreasing the concentrations of the products.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.6</ymp_xAbsolute>
+		<ymp_idx>7</ymp_idx>
+		<ymp_yAbsolute>192.85</ymp_yAbsolute>
+		<ymp_xOffset>107.0</ymp_xOffset>
+		<ymp_yOffset>10.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] --> We can also remove chemical species from the system. If we decrease the concentration of a reactant, A or B,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>261.05</ymp_xAbsolute>
+		<ymp_idx>8</ymp_idx>
+		<ymp_yAbsolute>192.7</ymp_yAbsolute>
+		<ymp_xOffset>230.3</ymp_xOffset>
+		<ymp_yOffset>12.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->the system will shift in the reverse direction to counter the stress by increasing the reactant concentrations.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.75</ymp_xAbsolute>
+		<ymp_idx>9</ymp_idx>
+		<ymp_yAbsolute>209.4</ymp_yAbsolute>
+		<ymp_xOffset>373.1</ymp_xOffset>
+		<ymp_yOffset>14.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->If we remove a product, the system will shift in the forward direction to counter the stress by increasing the concentration of products.</ymp_txt>
+	</ymp_slice>
+	
+			<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>0</ymp_xOffset>
+		<ymp_yOffset>30</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[1] -->The next type of stress we will consider is a change in volume. How will a change in volume influence a gas phase system at equilibrium? First of all, a volume change will change the total pressure of the system.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>68.15</ymp_xAbsolute>
+		<ymp_yAbsolute>153.55</ymp_yAbsolute>
+		<ymp_xOffset>205.4</ymp_xOffset>
+		<ymp_yOffset>25.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Consider a reaction in which 2 gas molecules, A and B, react to form a single gas molecule, C.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>376.3</ymp_xAbsolute>
+		<ymp_yAbsolute>148.9</ymp_yAbsolute>
+		<ymp_xOffset>167.8</ymp_xOffset>
+		<ymp_yOffset>44.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->Suppose the system is at equilibrium and we stress the system by decreasing the volume, thereby increasing the pressure.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>392.15</ymp_xAbsolute>
+		<ymp_yAbsolute>202.75</ymp_yAbsolute>
+		<ymp_xOffset>145.8</ymp_xOffset>
+		<ymp_yOffset>10.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->LeChatlier's principal tells us that the system will respond in a way that counters this stress. First we need to consider what happens to the pressure when the reaction shifts in the forward versus reverse direction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>84.6</ymp_xAbsolute>
+		<ymp_yAbsolute>188.85</ymp_yAbsolute>
+		<ymp_xOffset>80.2</ymp_xOffset>
+		<ymp_yOffset>16.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->In this reaction we have 2 moles of gas on the reactant side</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>240.7</ymp_xAbsolute>
+		<ymp_yAbsolute>186.7</ymp_yAbsolute>
+		<ymp_xOffset>74.3</ymp_xOffset>
+		<ymp_yOffset>17.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->and 1 mole of gas on the product side.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>95.45</ymp_xAbsolute>
+		<ymp_yAbsolute>221.5</ymp_yAbsolute>
+		<ymp_xOffset>179.6</ymp_xOffset>
+		<ymp_yOffset>12.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Pressure is a function of the total number of molecules; more molecules in the same space means more pressure. If the system shifts in the forward direction the total number of gas molecules will decrease and the pressure will go down.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>94.2</ymp_xAbsolute>
+		<ymp_yAbsolute>240.8</ymp_yAbsolute>
+		<ymp_xOffset>179.6</ymp_xOffset>
+		<ymp_yOffset>11.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->Conversely, if the system shifts in the reverse direction, the total number of gas molecules increases and the pressure goes up.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>280.05</ymp_xAbsolute>
+		<ymp_yAbsolute>221.15</ymp_yAbsolute>
+		<ymp_xOffset>207.2</ymp_xOffset>
+		<ymp_yOffset>35.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->Recall that our stress of decreasing the volume causes the pressure to go up, and LeChatlier's principal tells us that the system will respond to counter this stress, i.e., it will respond in a way that decreases the total number of molecules, and therefore decreases the pressure, so the system will shift in the forward direction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>289.05</ymp_xAbsolute>
+		<ymp_yAbsolute>241.75</ymp_yAbsolute>
+		<ymp_xOffset>159.6</ymp_xOffset>
+		<ymp_yOffset>47.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->Decreasing the volume of the container therefore causes the reaction to shift in the forward direction.</ymp_txt>
+	</ymp_slice>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>0</ymp_xOffset>
+		<ymp_yOffset>30</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->The last type of stress we will consider is that of a change in temperature.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>169.9</ymp_xAbsolute>
+		<ymp_idx>2</ymp_idx>
+		<ymp_yAbsolute>193.05</ymp_yAbsolute>
+		<ymp_xOffset>232.6</ymp_xOffset>
+		<ymp_yOffset>10.9</ymp_yOffset>
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[2] -->Consider the following reaction, in which A reacts with B to produce C and the reaction has a reaction enthalpy that is negative.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>425.4</ymp_xAbsolute>
+		<ymp_idx>3</ymp_idx>
+		<ymp_yAbsolute>194.5</ymp_yAbsolute>
+		<ymp_xOffset>74.9</ymp_xOffset>
+		<ymp_yOffset>8.8</ymp_yOffset>
+		<ymp_tc>00:03</ymp_tc>
+		<ymp_txt><!--[3] -->This reaction is exothermic. The most convenient way to apply LeChatlier's principle to a change in temperature is to consider heat as a reactant or product of the reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>292.45</ymp_xAbsolute>
+		<ymp_idx>4</ymp_idx>
+		<ymp_yAbsolute>194.7</ymp_yAbsolute>
+		<ymp_xOffset>48.2</ymp_xOffset>
+		<ymp_yOffset>9.2</ymp_yOffset>
+		<ymp_tc>00:04</ymp_tc>
+		<ymp_txt><!--[4] -->Since heat is released by this reaction, we write heat as a product of the reaction. We can now apply the same logic we used for the addition or removal of a chemical species.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>129.5</ymp_xAbsolute>
+		<ymp_idx>5</ymp_idx>
+		<ymp_yAbsolute>219.2</ymp_yAbsolute>
+		<ymp_xOffset>234.1</ymp_xOffset>
+		<ymp_yOffset>7.9</ymp_yOffset>
+		<ymp_tc>00:05</ymp_tc>
+		<ymp_txt><!--[5] -->When we increase the temperature we add heat to the system.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>389.9</ymp_xAbsolute>
+		<ymp_idx>6</ymp_idx>
+		<ymp_yAbsolute>218.35</ymp_yAbsolute>
+		<ymp_xOffset>87.3</ymp_xOffset>
+		<ymp_yOffset>11.6</ymp_yOffset>
+		<ymp_tc>00:06</ymp_tc>
+		<ymp_txt><!--[6] -->The system will shift to counter this stress by absorbing the heat, meaning it will shift in the reverse direction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>128.75</ymp_xAbsolute>
+		<ymp_idx>7</ymp_idx>
+		<ymp_yAbsolute>245.5</ymp_yAbsolute>
+		<ymp_xOffset>234.3</ymp_xOffset>
+		<ymp_yOffset>8.2</ymp_yOffset>
+		<ymp_tc>00:07</ymp_tc>
+		<ymp_txt><!--[7] -->Decreasing the temperature corresponds to removing heat from the system.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>389.75</ymp_xAbsolute>
+		<ymp_idx>8</ymp_idx>
+		<ymp_yAbsolute>242.6</ymp_yAbsolute>
+		<ymp_xOffset>90.5</ymp_xOffset>
+		<ymp_yOffset>12.6</ymp_yOffset>
+		<ymp_tc>00:08</ymp_tc>
+		<ymp_txt><!--[8] -->The reaction shifts in the forward direction to counter this stress by producing heat.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>189.35</ymp_xAbsolute>
+		<ymp_idx>9</ymp_idx>
+		<ymp_yAbsolute>277.15</ymp_yAbsolute>
+		<ymp_xOffset>313.8</ymp_xOffset>
+		<ymp_yOffset>10.6</ymp_yOffset>
+		<ymp_tc>00:09</ymp_tc>
+		<ymp_txt><!--[9] -->If this reaction were endothermic,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>131.6</ymp_xAbsolute>
+		<ymp_idx>10</ymp_idx>
+		<ymp_yAbsolute>277.1</ymp_yAbsolute>
+		<ymp_xOffset>50.1</ymp_xOffset>
+		<ymp_yOffset>10.4</ymp_yOffset>
+		<ymp_tc>00:10</ymp_tc>
+		<ymp_txt><!--[10] -->then heat would be a reactant instead.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>137.9</ymp_xAbsolute>
+		<ymp_idx>11</ymp_idx>
+		<ymp_yAbsolute>300.55</ymp_yAbsolute>
+		<ymp_xOffset>353.2</ymp_xOffset>
+		<ymp_yOffset>12.5</ymp_yOffset>
+		<ymp_tc>00:11</ymp_tc>
+		<ymp_txt><!--[11] -->Here an increase in temperature by adding heat would then cause the reaction to shift in the forward direction to absorb the heat.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>137.05</ymp_xAbsolute>
+		<ymp_idx>12</ymp_idx>
+		<ymp_yAbsolute>328.9</ymp_yAbsolute>
+		<ymp_xOffset>349.8</ymp_xOffset>
+		<ymp_yOffset>11.6</ymp_yOffset>
+		<ymp_tc>00:12</ymp_tc>
+		<ymp_txt><!--[12] -->A decrease in temperature, or removal of heat, would cause the system to shift in the reverse direction to produce heat.</ymp_txt>
+	</ymp_slice>
+	
+</ymp_presentation>

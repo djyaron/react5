@@ -1,0 +1,267 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Le Chatelier's principle&lt;br&gt;&lt;br&gt;Hemoglobin</ymp_title>
+<p>Chemists use LeChatelier's principle to reason qualitatively about the influence of changes in concentration, temperature or pressure on systems that are <em>at equilibrium</em>. This movie describes the hemoglobin scenario from a qualitative perspective. We recommend you (i) watch the movie (ii) go through the course items that follow, and (iii) watch the Hemoglobin story again. Since the Hemoglobin story uses ideas covered in the library items, the first time you hear the story you may not yet have the background information needed to understand the details.</p>
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>65</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>40.95</ymp_yAbsolute>
+		
+		<ymp_xOffset>153.8</ymp_xOffset>
+		
+		<ymp_yOffset>130.0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[01] -->Chemical equilibrium arises when we have reactions that occur in both the forward and reverse direction. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>116.8</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>41.2</ymp_yAbsolute>
+		
+		<ymp_xOffset>141.4</ymp_xOffset>
+		
+		<ymp_yOffset>93.7</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[02] -->Consider, for instance, the way your blood transports oxygen from your lungs to your muscles. The red line represents the flow of blood in your body. The blood enters the lungs where it picks up oxygen, it then goes to the muscles where it releases the oxygen so that your muscles can do work.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>238.55</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>83.15</ymp_yAbsolute>
+		
+		<ymp_xOffset>180.4</ymp_xOffset>
+		
+		<ymp_yOffset>22.3</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[03] -->The relevant chemical reaction is between hemoglobin and 4 oxygen molecules to form a complex in which hemoglobin is bound to 4 oxygen molecules. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>241.5</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>124.05</ymp_yAbsolute>
+		
+		<ymp_xOffset>184.7</ymp_xOffset>
+		
+		<ymp_yOffset>20.4</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[04] -->In your lungs, the reaction shifts in the forward direction picking up oxygen. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>242.55</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>154.35</ymp_yAbsolute>
+		
+		<ymp_xOffset>198.3</ymp_xOffset>
+		
+		<ymp_yOffset>22.8</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[05] -->In your muscles, the reaction shifts in the reverse direction releasing the oxygen. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>449.55</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>125.3</ymp_yAbsolute>
+		
+		<ymp_xOffset>168.2</ymp_xOffset>
+		
+		<ymp_yOffset>70.2</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[06] -->For your blood to be able to transport oxygen, this reaction must go in both the forward and reverse directions. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>66.9</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>214.2</ymp_yAbsolute>
+		
+		<ymp_xOffset>292.5</ymp_xOffset>
+		
+		<ymp_yOffset>48.2</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[07] -->In your blood, the reaction between hemoglobin and oxygen quickly reaches a steady state known as chemical equilibrium. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>106.15</ymp_xAbsolute>
+		<ymp_yAbsolute>268.65</ymp_yAbsolute>
+		<ymp_xOffset>206.5</ymp_xOffset>
+		<ymp_yOffset>43.0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[08] -->At chemical equilibrium the overall concentrations of the chemical species do not change, but this is not because the reaction has stopped occurring, rather it is because the rate of the forward reaction is equal to the rate of the reverse reaction. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>374.3</ymp_xAbsolute>
+		<ymp_yAbsolute>236.55</ymp_yAbsolute>
+		<ymp_xOffset>113.4</ymp_xOffset>
+		<ymp_yOffset>78.8</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[09] -->The rate at which the forward reaction consumes the reactants is equal to the rate at which the reverse reaction produces the reactions. So the concentrations of reactants do not change, even though both the forward and reverse reactions are occurring. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>500.2</ymp_xAbsolute>
+		<ymp_yAbsolute>233.9</ymp_yAbsolute>
+		<ymp_xOffset>113.3</ymp_xOffset>
+		<ymp_yOffset>80.5</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[10] -->Similarly, the rate at which the forward reaction produces the products is equal to the rate at which the reverse reaction consumes products, such that the product concentration reaches a steady-state and does not change with time. </ymp_txt>
+	</ymp_slice>
+	
+	
+	<ymp_slice>
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>500.2</ymp_xAbsolute>
+		<ymp_yAbsolute>233.9</ymp_yAbsolute>
+		<ymp_xOffset>113.3</ymp_xOffset>
+		<ymp_yOffset>80.5</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt>At any moment there will always be some bound and some unbound hemoglobin present, but the amounts can vary depending, for instance, on whether we are in the lungs or in the muscles. As your blood is traveling through the veins and back to your lungs, it is in a state of chemical equilibrium.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>65.15</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>338.85</ymp_yAbsolute>
+		
+		<ymp_xOffset>327.9</ymp_xOffset>
+		
+		<ymp_yOffset>63.1</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[12] -->However, when the blood first enters the lungs, a large amount of fresh oxygen enters the system. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>88.2</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>419.95</ymp_yAbsolute>
+		
+		<ymp_xOffset>252.1</ymp_xOffset>
+		
+		<ymp_yOffset>49.2</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[13] -->This perturbs the chemical equilibrium because the additional oxygen causes the forward reaction to temporarily become faster than the reverse reaction. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>367.8</ymp_xAbsolute>
+		<ymp_yAbsolute>409.5</ymp_yAbsolute>
+		<ymp_xOffset>85.7</ymp_xOffset>
+		<ymp_yOffset>56.9</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[14] -->The addition of the oxygen therefore takes the system out of equilibrium and the concentrations of the chemical species change. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>162.1</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>486.55</ymp_yAbsolute>
+		
+		<ymp_xOffset>185.1</ymp_xOffset>
+		
+		<ymp_yOffset>47.4</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[15] -->Since the forward reaction is temporarily faster than the reverse reaction, the concentration of the reactants decreases and concentration of the products increases. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>369.15</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>472.8</ymp_yAbsolute>
+		
+		<ymp_xOffset>89.5</ymp_xOffset>
+		
+		<ymp_yOffset>59.4</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[16] -->We call this decrease in the reactants and increase in the products a shift in the reaction. In this case the shift is in the forward direction. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>52.35</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>524.1</ymp_yAbsolute>
+		
+		<ymp_xOffset>440.4</ymp_xOffset>
+		
+		<ymp_yOffset>69.2</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[17] -->The shift occurs until the forward rate and reverse rate become balanced again, and we establish a new equilibrium state.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>467</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>427.7</ymp_yAbsolute>
+		
+		<ymp_xOffset>133.3</ymp_xOffset>
+		
+		<ymp_yOffset>160.5</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[18] -->This is a specific example of a situation that is very common in chemical equilibrium systems. In the language of chemical equilibrium, we call the addition of oxygen a stress to the system. The response to this stress is a shift in the reaction that establishes a new equilibrium.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

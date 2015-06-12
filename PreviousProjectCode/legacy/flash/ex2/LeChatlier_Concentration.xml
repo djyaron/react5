@@ -1,0 +1,114 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Le Chatelier's principle&lt;br&gt;Change in concentration of a chemical species</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>93.85</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>93.85</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[1] -->The first type of stress we will consider is the addition or removal of a chemical species.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>163.3</ymp_xAbsolute>
+		<ymp_yAbsolute>116.5</ymp_yAbsolute>
+		<ymp_xOffset>208.6</ymp_xOffset>
+		<ymp_yOffset>18.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Consider the reverible reaction in which A and B react to produce C and D.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.5</ymp_xAbsolute>
+		<ymp_idx>3</ymp_idx>
+		<ymp_yAbsolute>157.2</ymp_yAbsolute>
+		<ymp_xOffset>102.1</ymp_xOffset>
+		<ymp_yOffset>10.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->Suppose that the stress we apply to the system is the addition of a reactant, A or B. LeChatlier's principle says that the system will respond in a way that counters this stress.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>262.15</ymp_xAbsolute>
+		<ymp_idx>4</ymp_idx>
+		<ymp_yAbsolute>154.45</ymp_yAbsolute>
+		<ymp_xOffset>232.4</ymp_xOffset>
+		<ymp_yOffset>13.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->Here the stress &lt;b&gt;increased&lt;/b&gt; the concentration of a reactant, so the system will shift in the forward direction to &lt;b&gt;decrease&lt;/b&gt; the concentration of the reactants.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.75</ymp_xAbsolute>
+		<ymp_idx>5</ymp_idx>
+		<ymp_yAbsolute>174.45</ymp_yAbsolute>
+		<ymp_xOffset>106.7</ymp_xOffset>
+		<ymp_yOffset>11.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->Similarly if we add a product, C or D,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>262.9</ymp_xAbsolute>
+		<ymp_idx>6</ymp_idx>
+		<ymp_yAbsolute>173.25</ymp_yAbsolute>
+		<ymp_xOffset>232.1</ymp_xOffset>
+		<ymp_yOffset>14.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->The system will shift in the reverse direction to counter this stress by decreasing the concentrations of the products.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.6</ymp_xAbsolute>
+		<ymp_idx>7</ymp_idx>
+		<ymp_yAbsolute>192.85</ymp_yAbsolute>
+		<ymp_xOffset>107.0</ymp_xOffset>
+		<ymp_yOffset>10.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] --> We can also remove chemical species from the system. If we decrease the concentration of a reactant, A or B,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>261.05</ymp_xAbsolute>
+		<ymp_idx>8</ymp_idx>
+		<ymp_yAbsolute>192.7</ymp_yAbsolute>
+		<ymp_xOffset>230.3</ymp_xOffset>
+		<ymp_yOffset>12.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->the system will shift in the reverse direction to counter the stress by increasing the reactant concentrations.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>119.75</ymp_xAbsolute>
+		<ymp_idx>9</ymp_idx>
+		<ymp_yAbsolute>209.4</ymp_yAbsolute>
+		<ymp_xOffset>373.1</ymp_xOffset>
+		<ymp_yOffset>14.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->If we remove a product, the system will shift in the forward direction to counter the stress by increasing the concentration of products.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>
